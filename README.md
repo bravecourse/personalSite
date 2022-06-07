@@ -3,6 +3,7 @@
 ## Lesson Focus:
 - use div tags to organize information via “content-blocks”
 - use classes and ids organize content blocks
+- use ids to link nav bar to content blocks
 - use padding and margin
 - add a button
 - add some hover animation to links and nav bar
@@ -25,10 +26,12 @@ IN HTML
 1. Add a div tag with the class "content-block" and id "about"
 2. Add a div tag with the class "content-block" and id "menu"
 3. Add a div tag with the class "content-block" and id "order"
+4. Add ids to a tags in nav bar links
 IN CSS
-4. use flexbox to style different content-blocks
-5. use padding and margin
-6. use selectors to apply styling
+5. use flexbox to style different content-blocks
+6. use padding and margin
+7. use selectors to apply styling
+
 
 
 ## CSS Used:
