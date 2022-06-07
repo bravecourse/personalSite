@@ -54,3 +54,20 @@ nav ul li a {
 	color: white;
 	font-size: 25px;
 }
+
+/* /////// FOOTER //////// */
+footer {
+	display: flex;
+	justify-content: space-between;
+	background-color: grey;
+	color:  white;
+	padding: 25px;
+}
+.footer-links ul {
+	list-style: none;
+}
+.footer-links ul li a {
+	text-decoration: none;
+	color: white;
+}
+
