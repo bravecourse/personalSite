@@ -27,7 +27,6 @@ p, a {
 }
 .banner h1 {
 	color:  black;
-	font-size: 45px;
 	background-color: rgba(255,255,255,0.7);
 }
 .banner p {
@@ -55,6 +54,12 @@ nav ul li a {
 	font-size: 25px;
 }
 
+/* styling applied to a tag when hovered */
+nav ul li a:hover {
+	color: darkred;
+	cursor:  pointer;
+}
+
 /* /////// FOOTER //////// */
 footer {
 	display: flex;
@@ -69,5 +74,54 @@ footer {
 .footer-links ul li a {
 	text-decoration: none;
 	color: white;
+}
+
+/* /////// CONTENT BLOCK //////// */
+.content-block {
+	padding:  50px;
+}
+
+
+/* /////// ABOUT US //////// */
+#about {
+	display: flex;
+	background-color: lightseagreen;
+}
+#about img {
+	margin-left: 50px;
+}
+
+
+/* /////// MENU //////// */
+#menu {
+	text-align: center;
+}
+.menu-items {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.menu-item img {
+	max-height: 150px;
+	width:  auto;
+}
+
+/* /////// ORDER //////// */
+#order {
+	background-color: lightseagreen;
+	text-align: center;
+}
+#order button {
+	padding:  10px;
+	font-size:  15px;
+	background-color: white;
+	border-radius: 50px;
+}
+
+/* styling applied on button when hovered */
+#order button:hover {
+	background-color: grey;
+	color:  black;
+	cursor:  pointer;
 }
 
