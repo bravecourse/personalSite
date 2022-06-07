@@ -1,0 +1,28 @@
+personalSite Version 3
+
+Lesson Focus:
+- practice flex box by adding a footer using the same styling as the nav bar
+
+Lesson Steps:
+IN HTML
+- Add a footer tag
+- Add a div tag with the class "company-info"
+- Add a div tag with the class "contact-info"
+- Add a div tag with the class "footer-links"
+- Add h3 and p tags with info in company-info and contact-info
+- Add an unordered list with the nav bar info in footer-links
+IN CSS
+- use the same styling as the nav bar (flex box) to style the footer
+
+HTML Tags Used:
+- footer
+
+CSS Used:
+- display: flex
+- justify-content: space-evenly
+- text decoration: none
+- list-style: none
+- background-color
+- color
+- margin
+- padding
