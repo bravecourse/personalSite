@@ -53,12 +53,10 @@ nav ul li a {
 	color: white;
 	font-size: 25px;
 }
-
-/* styling applied to a tag when hovered */
 nav ul li a:hover {
 	color: darkred;
-	cursor:  pointer;
 }
+
 
 /* /////// FOOTER //////// */
 footer {
@@ -75,6 +73,9 @@ footer {
 	text-decoration: none;
 	color: white;
 }
+.footer-links ul li a:hover {
+	color: darkred;
+}
 
 /* /////// CONTENT BLOCK //////// */
 .content-block {
@@ -83,45 +84,40 @@ footer {
 
 
 /* /////// ABOUT US //////// */
-#about {
+.about {
 	display: flex;
 	background-color: lightseagreen;
 }
-#about img {
+.about img {
 	margin-left: 50px;
 }
 
 
 /* /////// MENU //////// */
-#menu {
+.menu {
 	text-align: center;
 }
 .menu-items {
 	display: flex;
 	justify-content: space-evenly;
 }
-
 .menu-item img {
 	max-height: 150px;
 	width:  auto;
 }
 
 /* /////// ORDER //////// */
-#order {
+.order {
 	background-color: lightseagreen;
 	text-align: center;
 }
-#order button {
+.order button {
 	padding:  10px;
 	font-size:  15px;
 	background-color: white;
 	border-radius: 50px;
 }
-
-/* styling applied on button when hovered */
-#order button:hover {
+.order button:hover {
 	background-color: grey;
 	color:  black;
-	cursor:  pointer;
 }
-
