@@ -84,17 +84,17 @@ footer {
 
 
 /* /////// ABOUT US //////// */
-.about {
+#about {
 	display: flex;
 	background-color: lightseagreen;
 }
-.about img {
+#about img {
 	margin-left: 50px;
 }
 
 
 /* /////// MENU //////// */
-.menu {
+#menu {
 	text-align: center;
 }
 .menu-items {
@@ -107,17 +107,17 @@ footer {
 }
 
 /* /////// ORDER //////// */
-.order {
+#order {
 	background-color: lightseagreen;
 	text-align: center;
 }
-.order button {
+#order button {
 	padding:  10px;
 	font-size:  15px;
 	background-color: white;
 	border-radius: 50px;
 }
-.order button:hover {
+#order button:hover {
 	background-color: grey;
 	color:  black;
 }

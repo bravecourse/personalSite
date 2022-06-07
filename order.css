@@ -1,0 +1,15 @@
+.content-block {
+	background-color: lightblue;
+	text-align: center;
+}
+
+.content-block button {
+	padding:  10px;
+	font-size:  15px;
+	background-color: white;
+	border-radius: 50px;
+}
+.content-block button:hover {
+	background-color: grey;
+	color:  black;
+}
