@@ -22,12 +22,12 @@ practice adding a button and using :hover
 
 
 ## Lesson Steps:
-IN HTML
+### IN HTML
 1. Add a div tag with the class "content-block" and id "about"
 2. Add a div tag with the class "content-block" and id "menu"
 3. Add a div tag with the class "content-block" and id "order"
 4. Add ids to a tags in nav bar links
-IN CSS
+### IN CSS
 5. use flexbox to style different content-blocks
 6. use padding and margin
 7. use selectors to apply styling
