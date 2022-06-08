@@ -4,7 +4,7 @@
 - extract content-blocks into multiple pages to website by adding more html pages
 
 ## Lesson Steps:
-IN HTML
+### IN HTML
 1. Create about.html, menu.html, and order.html files
 2. Copy header, nav bar and footer into each of the new HTML files
 3. Copy about content-block from index.html and paste into about.html
