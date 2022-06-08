@@ -5,13 +5,13 @@
 - create specific, separate stylesheets for each html file
 
 ## Lesson Steps:
-IN CSS
+### IN CSS
 1. Create "about.css", "menu.css", and "order.css"
-IN HTML
+### IN HTML
 2. In about.html, add a second stylesheet link for "about.css" under "style.css"  
 3. In menu.html, add a second stylesheet link for "menu.css" under "style.css"  
 4. In order.html, add a second stylesheet link for "order.css" under "style.css"  
-IN CSS
+### IN CSS
 5. Add a styling to each content-block in each css file
 
 ### NOTE:
