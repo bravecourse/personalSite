@@ -1,6 +1,8 @@
 # personalSite lessons
 
-There are six versions of the personal Site. Each version implements new HTML tags, CSS styling, and web design principles, increasing in complexity and skill.
+Hello! This is a guide/answer key/lesson plan for the Brave Course personal site project!
+
+There are six versions of the personal site project. Each version implements new HTML tags, CSS styling, and web design principles, increasing in complexity and skill.
 
 Each version has a README.md file to view and a txt.file to download with the lessons, steps, and the HTML/CSS skill being introduced.
 
