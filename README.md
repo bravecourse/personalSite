@@ -8,4 +8,4 @@ Each version has a README.md file to view and a txt.file to download with the le
 
 In order to view each lesson, you can click on the branches to change which version you are looking at.
 
-By looking at the commit history, you will be able to see what changes from the previous version lesson! Look for the "added boilerplate for version#" commit :)
+By looking at the commit history, you will be able to see the changes from the previous version lesson! Look for the "added boilerplate for version#" commit :)
