@@ -3,7 +3,7 @@
 ## Lesson Focus:
 - prepare personal site for group project website format
 - create specific, separate stylesheets for each html file
-
+- [changes from version 6](https://github.com/bravecourse/personalSite/commit/1f99dab30874e4d62a4a8899755ed185a32f03da)
 ## Lesson Steps:
 ### IN CSS
 1. Create "about.css", "menu.css", and "order.css"
