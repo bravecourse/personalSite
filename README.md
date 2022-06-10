@@ -2,6 +2,7 @@
 
 ## Lesson Focus:
 - extract content-blocks into multiple pages to website by adding more html pages
+- [changes from version 4](https://github.com/bravecourse/personalSite/commit/d4fe10d984c0033a4987a0dafb57e704ca054616)
 
 ## Lesson Steps:
 ### IN HTML
