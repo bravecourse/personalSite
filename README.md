@@ -1,7 +1,5 @@
 # personalSite Version 2
 
-[changes from version 1](https://github.com/bravecourse/personalSite/commit/726d3d7388fcd77ba750afd160d19e0d522bee5c)
-
 ## Lesson Focus:
 - add style.css file
 - add link to css stylesheet in HTML file
@@ -10,6 +8,7 @@
 - intro to flex box to style nav bar
 - add a banner
 - add a nav bar
+- [changes from version 1](https://github.com/bravecourse/personalSite/commit/726d3d7388fcd77ba750afd160d19e0d522bee5c)
 
 ## Lesson Steps:
 1. open sublime text editor and save an untitled file as "style.css"
