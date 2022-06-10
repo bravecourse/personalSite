@@ -7,6 +7,7 @@
 - use padding and margin
 - add a button
 - add some hover animation to links and nav bar
+- [changes from version 3](https://github.com/bravecourse/personalSite/commit/fdee485fb790c4a49a45a987da9af373b89c5265)
 
 ### #about
 practice flex box on a div and image
