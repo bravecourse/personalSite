@@ -2,6 +2,7 @@
 
 ## Lesson Focus:
 - practice flex box by adding a footer using the same styling as the nav bar
+- [changes from version 2](https://github.com/bravecourse/personalSite/commit/2658795f71ffa5098e25eae57ba4f05a3269d15f)
 
 ## Lesson Steps:
 ### IN HTML
